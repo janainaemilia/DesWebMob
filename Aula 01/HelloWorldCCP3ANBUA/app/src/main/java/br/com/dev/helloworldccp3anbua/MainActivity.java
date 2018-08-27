@@ -3,8 +3,14 @@ package br.com.dev.helloworldccp3anbua;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+* @author Janaina Emilia RA 816114781
+*/
 public class MainActivity extends AppCompatActivity { //AppCompatActivity relacionado a retrocompatibilidade, para utilizar componentes destinado à tablet em versões anteriores a 3 do android studio
 
+	/**
+	* @author Janaina Emilia RA 816114781
+	*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
